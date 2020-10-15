@@ -1,0 +1,161 @@
+{
+	"totalVendors": 12,
+	"pageCount": 4,
+	"rows": [{
+		"vendor_title": "Jssmakeuovers",
+		"vendor_city": "Jaipur",
+		"vendor_service_price": "15000",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": true,
+		"vendor_prime": null,
+		"vendor_id": "315",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/315/123/15984428333010.jpg",
+			"desc": ""
+		}
+	}, {
+		"vendor_title": "ManuDheeraj MakeupArtist",
+		"vendor_city": "Delhi",
+		"vendor_service_price": "28500",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": true,
+		"vendor_prime": null,
+		"vendor_id": "307",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/307/123/16001919824310.jpg",
+			"desc": "Emotional bond"
+		}
+	}, {
+		"vendor_title": "Nickymua",
+		"vendor_city": "Bhopal",
+		"vendor_service_price": "15000",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": true,
+		"vendor_prime": null,
+		"vendor_id": "272",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/272/123/15921438090390.jpg",
+			"desc": ""
+		}
+	}, {
+		"vendor_title": "Makeup by The Beauty and The Blush",
+		"vendor_city": "Mumbai",
+		"vendor_service_price": "10000",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": true,
+		"vendor_prime": false,
+		"vendor_id": "125",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/125/123/16025667795180.jpg",
+			"desc": ""
+		}
+	}, {
+		"vendor_title": "KRYSTAL by Alpaa Rajgor",
+		"vendor_city": "Mumbai",
+		"vendor_service_price": "15000",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": true,
+		"vendor_prime": false,
+		"vendor_id": "126",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/126/123/1.JPG",
+			"desc": ""
+		}
+	}, {
+		"vendor_title": "Makeup by V4U",
+		"vendor_city": "Mumbai",
+		"vendor_service_price": "8000",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": false,
+		"vendor_prime": true,
+		"vendor_id": "128",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/128/123/1.jpg",
+			"desc": ""
+		}
+	}, {
+		"vendor_title": "Makeup by Mili Soni ",
+		"vendor_city": "Mumbai",
+		"vendor_service_price": "11000",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": true,
+		"vendor_prime": false,
+		"vendor_id": "129",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/129/123/15915404713720.jpg",
+			"desc": "Bridal Makeup by Mili"
+		}
+	}, {
+		"vendor_title": "MANALI STUDIO by Hema",
+		"vendor_city": "Mumbai",
+		"vendor_service_price": "12000",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": true,
+		"vendor_prime": false,
+		"vendor_id": "130",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/130/123/1.jpg",
+			"desc": ""
+		}
+	}, {
+		"vendor_title": "Makeup by Pallavi Kalwani",
+		"vendor_city": "Mumbai",
+		"vendor_service_price": "15000",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": true,
+		"vendor_prime": false,
+		"vendor_id": "132",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/132/123/1.jpg",
+			"desc": ""
+		}
+	}, {
+		"vendor_title": "Makeup by Hita Panwar",
+		"vendor_city": "Mumbai",
+		"vendor_service_price": "15000",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": true,
+		"vendor_prime": false,
+		"vendor_id": "133",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/133/123/1.jpg",
+			"desc": ""
+		}
+	}, {
+		"vendor_title": "Makeup by Arleen Gonsalves",
+		"vendor_city": "Mumbai",
+		"vendor_service_price": "10000",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": true,
+		"vendor_prime": false,
+		"vendor_id": "134",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/134/123/1.jpg",
+			"desc": ""
+		}
+	}, {
+		"vendor_title": "Makeup by Deepika",
+		"vendor_city": "Mumbai",
+		"vendor_service_price": "9500",
+		"vendor_top_service": "Bridal Makeup",
+		"vendor_super": true,
+		"vendor_prime": false,
+		"vendor_id": "135",
+		"avg": null,
+		"coverImage": {
+			"url": "/media/BridalImages/135/123/1.jpg",
+			"desc": ""
+		}
+	}]
+}
