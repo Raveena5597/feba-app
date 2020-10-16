@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
@@ -10,7 +11,7 @@ const Navbar = () => {
                         <span className="icon-bar"></span>
                         <span className="icon-bar"></span>
                     </button>
-                    <a className="navbar-brand" href="index.html">
+                    <Link className="navbar-brand" to="/`">
                         <table>
                             <tbody>
                                 <tr>
@@ -21,14 +22,14 @@ const Navbar = () => {
                                 </tr>
                             </tbody>
                         </table>
-                    </a>
+                    </Link>
                 </div>
                 <div className="collapse navbar-collapse" id="myNavbar">
                     <ul className="nav navbar-nav navbar-right">
-                        <li><a href="services.html"><span className="glyphicon glyphicon-home"></span> Wedding Services</a></li>
-                        <li><a href="makeup.html"><span className="glyphicon glyphicon-certificate"></span> MakeUp Courses</a></li>
-                        <li><a href="vendor.html"><span className="glyphicon glyphicon-log-in"></span> Vendor login</a></li>
-                        <li><a href="contact.html"><span className="glyphicon glyphicon-phone-alt"></span> Contact Us</a></li>
+                        <li><Link to="/services"><span className="glyphicon glyphicon-home"></span> Wedding Services</Link></li>
+                        <li><Link to="/makeup"><span className="glyphicon glyphicon-certificate"></span> MakeUp Courses</Link></li>
+                        <li><Link to="/vendor"><span className="glyphicon glyphicon-log-in"></span> Vendor login</Link></li>
+                        <li><Link to="/contact"><span className="glyphicon glyphicon-phone-alt"></span> Contact Us</Link></li>
                     </ul>
                 </div>
             </div>

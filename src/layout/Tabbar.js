@@ -1,15 +1,16 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Tabbar = () => {
     return (
         <nav className="navbar navbar-default navbar-fixed-bottom navbar-nav">
             <div className="container">
                 <center>
-                    <a href="index.html">
-                        <button className="btn navbar-btn glyphicon glyphicon-globe"></button></a>
-                    <a href="login.html">
+                    <Link to="/">
+                        <button className="btn navbar-btn glyphicon glyphicon-globe"></button></Link>
+                    <Link to="/login">
                         <button className="btn navbar-btn glyphicon glyphicon-user"
-                        ></button></a>
+                        ></button></Link>
                 </center>
             </div>
             <div className="container">
@@ -18,8 +19,6 @@ const Tabbar = () => {
                     <span className="login">Login</span>
                 </center>
             </div>
-
-
         </nav>
     )
 }
